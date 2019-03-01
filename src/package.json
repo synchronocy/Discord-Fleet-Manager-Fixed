@@ -1,0 +1,20 @@
+{
+  "name": "Discord Spambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "chalk": "^2.4.2",
+    "dankjson": "^1.0.7",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "promise": "^8.0.2",
+    "request": "^2.88.0"
+  }
+}

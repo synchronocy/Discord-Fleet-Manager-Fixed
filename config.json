@@ -1,0 +1,12 @@
+{
+    "proxies": 
+	["proxyhere",
+	"proxyhere"],
+	
+    "tokens": 
+	["tokenhere"],
+    "port": 1337,
+    "delay": 5000,
+    "timeout": 4000
+}
+
